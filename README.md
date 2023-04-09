@@ -27,8 +27,15 @@ Application Menu:
 
 4. Adding a new customer
 
-5. Renting a video out to a customer (input video title and customer ID; limited based on customer account type)
+5. Renting a video out to a customer (input video title and customer ID; limited based on customer account type**)
 
 6. Returning a video from a customer (input video title and customer ID)
 
 7. Exiting the application
+
+
+**Customer Account Types:
+* Standard Account: Can rent only one movie at a time
+* Premium Account: Can rent up to 3 movies at a time
+* Standard Family Account: Can rent one movie at a time and no 'R' rated movies
+* Premium Family Account: Can rent up to 3 movies at a time and no 'R' rated movies
